@@ -54,22 +54,29 @@ python manage.py runserver 127.0.0.1:8000
 9.访问127.0.0.1:8000进入教育平台主页
 -------
 首页：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/my_logo.png)
 
 公开课首页：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/class.png)
 
 公开课详情：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/class1.png)
 
 公开课内容详情：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/lessinopng.png)
 
 教师首页：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/teacher.png)
 
 教师详情：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/teacher1.png)
 
 机构首页：
+
 ![](https://github.com/PyGuojun/Mxonline/blob/master/image/org.png)
